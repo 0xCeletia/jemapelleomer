@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jemapelleomer
 - 👀 I’m interested in everything!
-- 🌱 I’m currently learning solidity!!
-- 💞️ I’m looking to collaborate on smart contracts!!!
+- 🌱 I’m currently specializing in solidity!!
+- 💞️ I’m looking to get into the new world of Web3!!!
 - 📫 How to reach me *omeryaka@outlook.com*
