@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @jemapelleomer
-- 👀 I’m interested in everything!
-- 🌱 I’m currently specializing in solidity!!
-- 💞️ I’m looking to get into the new world of Web3!!!
-- 📫 How to reach me *omeryaka@outlook.com*
+I'm Ömer!
+
+Reach out on Discord at 0xceletia
